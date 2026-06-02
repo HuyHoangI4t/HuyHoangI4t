@@ -2,15 +2,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:36D1DC,50:5B86E5,100:4A00E0&text=Nguyễn%20Huy%20Hoàng&fontSize=52&fontColor=ffffff&animation=fadeIn"/>
 
-# I'm Huy Hoàng
+# Nguyễn Huy Hoàng
 
-### Information technology students
+### Information Technology Student
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=750&lines=Artificial+Intelligence;Computer+Vision;Laravel+and+React;Machine+Learning;Fullstack+Development" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=750&lines=Artificial+Intelligence;Computer+Vision;Laravel+and+React;Machine+Learning;Fullstack+Development"/>
 
-<p align="center">
+<br>
+
 <a href="mailto:huyhoangpro187@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
@@ -18,7 +17,6 @@
 <a href="https://github.com/HuyHoangI4t">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
-</p>
 
 </div>
 
@@ -36,7 +34,6 @@ Currently Working On:
   - Handwritten Digit Recognition
   - Computer Vision Projects
   - Web Applications
-
 ```
 
 ---
@@ -53,99 +50,109 @@ Currently Working On:
 
 ## Featured Projects
 
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" align="center">
+
 ### AI Admission Chatbot
 
-AI-powered admission consulting system for university enrollment support.
+AI-powered admission consulting system.
 
 **Technology**
 
-Laravel • React • MySQL • REST API
+Laravel • React • MySQL
 
-**Repository**
+[Repository](https://github.com/HuyHoangI4t/LT-UDMNM)
 
-<a href="https://github.com/HuyHoangI4t/LT-UDMNM">
-<img src="https://img.shields.io/badge/View_Repository-LT--UDMNM-2563EB?style=for-the-badge&logo=github"/>
-</a>
+</td>
 
----
+<td width="50%" align="center">
 
 ### Handwritten Digit Recognition
 
-CNN-based handwritten digit recognition project using the MNIST dataset.
+CNN-based handwritten digit recognition.
 
 **Technology**
 
-Python • TensorFlow • CNN • OpenCV
+Python • TensorFlow • OpenCV
 
-**Repository**
+[Repository](https://github.com/HuyHoangI4t/Bai-tap-cuoi-ky)
 
-<a href="https://github.com/HuyHoangI4t/Bai-tap-cuoi-ky">
-<img src="https://img.shields.io/badge/View_Repository-Digit_Recognition-2563EB?style=for-the-badge&logo=github"/>
-</a>
+</td>
 
----
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
 
 ### Image Processing Project
 
-Computer vision and image analysis project using machine learning.
+Computer vision and image analysis.
 
 **Technology**
 
-Python • OpenCV • Machine Learning
+Python • OpenCV
 
-**Repository**
+[Repository](https://github.com/HuyHoangI4t/anh_so)
 
-<a href="https://github.com/HuyHoangI4t/anh_so">
-<img src="https://img.shields.io/badge/View_Repository-anh__so-2563EB?style=for-the-badge&logo=github"/>
-</a>
+</td>
 
----
+<td width="50%" align="center">
 
 ### Personal Portfolio
 
-Portfolio website showcasing projects, skills and development experience.
+Portfolio website.
 
 **Technology**
 
-PHP • HTML • CSS • JavaScript
+PHP • JavaScript
 
-**Repository**
+[Repository](https://github.com/HuyHoangI4t/Portfolio)
 
-<a href="https://github.com/HuyHoangI4t/Portfolio">
-<img src="https://img.shields.io/badge/View_Repository-Portfolio-2563EB?style=for-the-badge&logo=github"/>
-</a>
+</td>
 
----
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
 
 ### Expense Management System
 
-Web application for personal finance and expense tracking.
+Expense tracking web application.
 
 **Technology**
 
 PHP • MySQL
 
-**Repository**
+[Repository](https://github.com/HuyHoangI4t/Quan_Ly_Chi_Tieu)
 
-<a href="https://github.com/HuyHoangI4t/Quan_Ly_Chi_Tieu">
-<img src="https://img.shields.io/badge/View_Repository-Expense_System-2563EB?style=for-the-badge&logo=github"/>
-</a>
+</td>
 
----
+<td width="50%" align="center">
 
 ### Bomberman Game
 
-Game development project focused on object-oriented programming and software fundamentals.
+Game development project.
 
 **Technology**
 
 C++
 
-**Repository**
+[Repository](https://github.com/HuyHoangI4t/Bomber-man)
 
-<a href="https://github.com/HuyHoangI4t/Bomber-man">
-<img src="https://img.shields.io/badge/View_Repository-Bomberman-2563EB?style=for-the-badge&logo=github"/>
-</a>
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 

@@ -1,54 +1,51 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020024,50:090979,100:00D4FF&text=Hoàng%20Nguyễn%20Huy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Computer%20Vision%20%7C%20Fullstack%20Developer&descSize=18&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:36D1DC,50:5B86E5,100:4A00E0&text=Nguyễn%20Huy%20Hoàng&fontSize=52&fontColor=ffffff&animation=fadeIn"/>
 
-<h1>Hi, I'm Huy Hoang</h1>
+# I'm Huy Hoàng
 
-<h3>
-Information Technology Student • AI Developer • Fullstack Developer
-</h3>
+### Information technology students
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2600&pause=800&center=true&vCenter=true&width=850&lines=Building+AI-powered+applications;Computer+Vision+with+YOLO+and+OpenCV;Fullstack+development+with+Laravel+and+React;Turning+university+projects+into+real-world+products" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=750&lines=Artificial+Intelligence;Computer+Vision;Laravel+and+React;Machine+Learning;Fullstack+Development" />
+</p>
 
-<br/>
+<p align="center">
+<a href="mailto:huyhoangpro187@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
 
 <a href="https://github.com/HuyHoangI4t">
-<img src="https://img.shields.io/badge/GitHub-HuyHoangI4t-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
-
-<a href="mailto:huyhoangpro187@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=HuyHoangI4t&label=PROFILE%20VIEWS&color=00D4FF&style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-## About Me
+## About
 
 ```yaml
-name: Hoàng Nguyễn Huy
-github: HuyHoangI4t
-role: Information Technology Student
-location: Vietnam
+Name: Nguyễn Huy Hoàng
+GitHub: HuyHoangI4t
+Role: Information Technology Student
 
-currently_working_on:
+Currently Working On:
   - AI Admission Chatbot
-  - Vehicle Detection System
-  - Image Recognition Projects
-  - Web Application Projects
+  - Handwritten Digit Recognition
+  - Computer Vision Projects
+  - Web Applications
 
 ```
 
 ---
 
-## Main Tech Stack
+## Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,php,laravel,react,mysql,js,html,css,cpp,java,git,github,vscode,linux,docker&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,php,laravel,react,mysql,cpp,java,html,css,js,git,github,linux,vscode,tensorflow,pytorch&perline=8"/>
 
 </div>
 
@@ -56,262 +53,142 @@ currently_working_on:
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### AI Admission Chatbot
 
-<h3>AI Admission Chatbot</h3>
-
-<p>
 AI-powered admission consulting system for university enrollment support.
-</p>
 
-<ul>
-<li>Laravel backend</li>
-<li>React frontend</li>
-<li>MySQL database</li>
-<li>Knowledge base chatbot</li>
-</ul>
+**Technology**
 
-<p>
-<b>Tech:</b> Laravel • React • MySQL • AI
-</p>
+Laravel • React • MySQL • REST API
+
+**Repository**
 
 <a href="https://github.com/HuyHoangI4t/LT-UDMNM">
-<img src="https://img.shields.io/badge/View%20Repository-LT--UDMNM-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Repository-LT--UDMNM-2563EB?style=for-the-badge&logo=github"/>
 </a>
 
-</td>
+---
 
-<td width="50%">
+### Handwritten Digit Recognition
 
-<h3>CNN Digit Recognition</h3>
+CNN-based handwritten digit recognition project using the MNIST dataset.
 
-<p>
-Image recognition project focused on handwritten digit classification.
-</p>
+**Technology**
 
-<ul>
-<li>Python-based AI project</li>
-<li>Computer Vision workflow</li>
-<li>Model training and prediction</li>
-<li>Academic AI implementation</li>
-</ul>
+Python • TensorFlow • CNN • OpenCV
 
-<p>
-<b>Tech:</b> Python • Machine Learning • Computer Vision
-</p>
-
-<a href="https://github.com/HuyHoangI4t/anh_so">
-<img src="https://img.shields.io/badge/View%20Repository-anh__so-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<h3>Handwritten Digit Recognition</h3>
-
-<p>
-AI project for recognizing handwritten digits using Convolutional Neural Networks.
-</p>
-
-<ul>
-<li>Handwritten digit recognition</li>
-<li>CNN model training</li>
-<li>MNIST dataset</li>
-<li>Accuracy evaluation</li>
-<li>Real-time prediction</li>
-</ul>
-
-<p>
-<b>Tech:</b> Python • TensorFlow • CNN • OpenCV • MNIST
-</p>
+**Repository**
 
 <a href="https://github.com/HuyHoangI4t/Bai-tap-cuoi-ky">
-<img src="https://img.shields.io/badge/View%20Repository-Handwritten%20Digit%20Recognition-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Repository-Digit_Recognition-2563EB?style=for-the-badge&logo=github"/>
 </a>
 
-</td>
+---
 
-<td width="50%">
+### Image Processing Project
 
-<h3>Personal Portfolio</h3>
+Computer vision and image analysis project using machine learning.
 
-<p>
-Portfolio website for showcasing projects, skills and developer profile.
-</p>
+**Technology**
 
-<ul>
-<li>Personal website</li>
-<li>Project showcase</li>
-<li>Web interface</li>
-<li>Developer branding</li>
-</ul>
+Python • OpenCV • Machine Learning
 
-<p>
-<b>Tech:</b> PHP • Web Development
-</p>
+**Repository**
+
+<a href="https://github.com/HuyHoangI4t/anh_so">
+<img src="https://img.shields.io/badge/View_Repository-anh__so-2563EB?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+### Personal Portfolio
+
+Portfolio website showcasing projects, skills and development experience.
+
+**Technology**
+
+PHP • HTML • CSS • JavaScript
+
+**Repository**
 
 <a href="https://github.com/HuyHoangI4t/Portfolio">
-<img src="https://img.shields.io/badge/View%20Repository-Portfolio-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Repository-Portfolio-2563EB?style=for-the-badge&logo=github"/>
 </a>
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+### Expense Management System
 
-<h3>Expense Management System</h3>
+Web application for personal finance and expense tracking.
 
-<p>
-Web application for tracking and managing personal expenses.
-</p>
+**Technology**
 
-<ul>
-<li>Expense tracking</li>
-<li>CRUD operations</li>
-<li>Database management</li>
-<li>Web application logic</li>
-</ul>
+PHP • MySQL
 
-<p>
-<b>Tech:</b> PHP • Database • Web App
-</p>
+**Repository**
 
 <a href="https://github.com/HuyHoangI4t/Quan_Ly_Chi_Tieu">
-<img src="https://img.shields.io/badge/View%20Repository-Quan__Ly__Chi__Tieu-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Repository-Expense_System-2563EB?style=for-the-badge&logo=github"/>
 </a>
 
-</td>
+---
 
-<td width="50%">
+### Bomberman Game
 
-<h3>Bomberman Game</h3>
+Game development project focused on object-oriented programming and software fundamentals.
 
-<p>
-C++ game project built to practice programming logic and game development.
-</p>
+**Technology**
 
-<ul>
-<li>C++ programming</li>
-<li>Game logic</li>
-<li>Object-oriented design</li>
-<li>Algorithmic thinking</li>
-</ul>
+C++
 
-<p>
-<b>Tech:</b> C++ • Game Development
-</p>
+**Repository**
 
 <a href="https://github.com/HuyHoangI4t/Bomber-man">
-<img src="https://img.shields.io/badge/View%20Repository-Bomber--man-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Repository-Bomberman-2563EB?style=for-the-badge&logo=github"/>
 </a>
 
-</td>
-</tr>
-</table>
-
 ---
 
-## Development Focus
-
-```text
-Artificial Intelligence    █████████████████░░░  85%
-Computer Vision            ████████████████░░░░  80%
-Backend Development        ███████████████░░░░░  75%
-Fullstack Development      ██████████████░░░░░░  70%
-Database Design            █████████████░░░░░░░  65%
-```
-
----
-
-## GitHub Analytics
+## GitHub Statistics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HuyHoangI4t&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuyHoangI4t&theme=github_dark"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyHoangI4t&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<br><br>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuyHoangI4t&theme=github_dark"/>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HuyHoangI4t&theme=github_dark"/>
+
+<br><br>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=HuyHoangI4t&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-## Repository Direction
+## Contribution Activity
+
 <div align="center">
 
-<table>
-<tr>
-<th>Repository</th>
-<th>Direction</th>
-<th>Recommendation</th>
-</tr>
-
-<tr>
-<td><code>LT-UDMNM</code></td>
-<td>AI / Fullstack</td>
-<td>Main portfolio project</td>
-</tr>
-
-<tr>
-<td><code>anh_so</code></td>
-<td>AI / Computer Vision</td>
-<td>Add screenshots and model results</td>
-</tr>
-
-<tr>
-<td><code>Bai-tap-cuoi-ky</code></td>
-<td>Handwritten Digit Recognition</td>
-<td>Show CNN accuracy and demo</td>
-</tr>
-
-<tr>
-<td><code>Portfolio</code></td>
-<td>Personal Branding</td>
-<td>Deploy with GitHub Pages</td>
-</tr>
-
-<tr>
-<td><code>Quan_Ly_Chi_Tieu</code></td>
-<td>Web App</td>
-<td>Add demo images</td>
-</tr>
-
-<tr>
-<td><code>Bomber-man</code></td>
-<td>C++ / Game</td>
-<td>Add gameplay screenshots</td>
-</tr>
-
-</table>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HuyHoangI4t&theme=github-dark&hide_border=true"/>
 
 </div>
 
-
-## 2026 Roadmap
-
-- Build stronger AI and Computer Vision projects
-- Improve Laravel + React fullstack skills
-- Add screenshots, demo videos and setup guides to every repository
-- Deploy portfolio website
-- Prepare for internship / fresher developer opportunities
-
-
+---
 
 ## Contact
 
 <div align="center">
 
 <a href="mailto:huyhoangpro187@gmail.com">
-<img src="https://img.shields.io/badge/huyhoangpro187%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
 <a href="https://github.com/HuyHoangI4t">
-<img src="https://img.shields.io/badge/GitHub-HuyHoangI4t-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
 </div>
@@ -320,8 +197,8 @@ Database Design            █████████████░░░░�
 
 <div align="center">
 
-<h3>Building real-world projects from university ideas</h3>
+### Building practical software through continuous learning
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020024,50:090979,100:00D4FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:36D1DC,50:5B86E5,100:4A00E0"/>
 
 </div>

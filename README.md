@@ -1,101 +1,78 @@
-<div align="center">
+<h1 align="center">Hey 👋, I'm Nguyễn Huy Hoàng</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:36D1DC,50:5B86E5,100:4A00E0&text=Nguyễn%20Huy%20Hoàng&fontSize=52&fontColor=ffffff&animation=fadeIn"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HuyHoangI4t&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/HuyHoangI4t?label=Followers&style=flat" alt="Followers" />
+</p>
 
-# Nguyễn Huy Hoàng
+<p align="center">
+  <em>Information Technology Student</em>
+</p>
 
-### Information Technology Student
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=HuyHoangI4t&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=HuyHoangI4t&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=750&lines=Artificial+Intelligence;Computer+Vision;Laravel+and+React;Machine+Learning;Fullstack+Development"/>
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<br>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,cpp,java,php,js,react,laravel,mysql,html,css,linux,git,github,vscode&perline=8"
+    alt="Tech Stack"
+  />
+</p>
 
-<a href="mailto:huyhoangpro187@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
+<table align="center" width="100%">
+  <tr>
+    <td width="70%" align="center">
+      <h3>📈 Contribution Activity</h3>
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=HuyHoangI4t&theme=tokyo-night&hide_border=true&area=true&height=180"
+        alt="Contribution Activity"
+        width="100%"
+      />
+    </td>
+    <td width="30%" align="center">
+      <h3>📌 GitHub Overview</h3>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyHoangI4t&theme=tokyonight"
+        alt="GitHub Overview"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/HuyHoangI4t">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-</div>
-
----
-
-## About
-
-```yaml
-Name: Nguyễn Huy Hoàng
-GitHub: HuyHoangI4t
-Role: Information Technology Student
-
-Currently Working On:
-  - AI Admission Chatbot
-  - Handwritten Digit Recognition
-  - Computer Vision Projects
-  - Web Applications
-```
-
-## Technology Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,php,laravel,react,mysql,cpp,java,html,css,js,git,github,linux,vscode,tensorflow,pytorch&perline=8"/>
-
-</div>
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuyHoangI4t&theme=github_dark"/>
-
-<br><br>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuyHoangI4t&theme=github_dark"/>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HuyHoangI4t&theme=github_dark"/>
-
-<br><br>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=HuyHoangI4t&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HuyHoangI4t&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-## Contact
-
-<div align="center">
-
-<a href="mailto:huyhoangpro187@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
-<a href="https://github.com/HuyHoangI4t">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Building practical software through continuous learning
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:36D1DC,50:5B86E5,100:4A00E0"/>
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuyHoangI4t&theme=tokyonight"
+        alt="Languages by Repository"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HuyHoangI4t&theme=tokyonight"
+        alt="Languages by Commit"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>

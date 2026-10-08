@@ -32,7 +32,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,cpp,java,php,js,react,laravel,mysql,html,css,linux,git,github,vscode&perline=8"
+    src="https://skillicons.dev/icons?i=python,cpp,java,php,js,react,laravel,mysql,html,css,git,github,vscode&perline=8"
     alt="Tech Stack"
   />
 </p>
